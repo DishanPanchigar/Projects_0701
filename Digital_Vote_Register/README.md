@@ -66,10 +66,13 @@ Actual counts appear only after pressing **View All Candidate Votes**.
 
 ## How to Run
 1. Install Logisim Evolution.
+
 2. Clone repository:
+
 ```bash
-git clone <your-repo-url>
-3. Open Digital_Vote_Regiser.circ
+git clone https://github.com/DishanPanchigar/Projects_0701/tree/main 
+
+3. Open Digital_Vote_Register/circuit/Digital_Vote_Regiser.circ
 4. Set eligibility criteria.
 5. Select a candidate.
 6. Press Confirm Vote.
