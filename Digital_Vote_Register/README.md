@@ -68,19 +68,19 @@ Actual counts appear only after pressing **View All Candidate Votes**.
 1. Install Logisim Evolution.
 
 2. Clone repository:
-
-```bash
 git clone https://github.com/DishanPanchigar/Projects_0701/tree/main 
 
----
-
 3. Open Digital_Vote_Register/circuit/Digital_Vote_Regiser.circ
-4. Set eligibility criteria.
-5. Select a candidate.
-6. Press Confirm Vote.
-7. Use View Results to display counts.
-8. Reset All Votes if required.
 
+4. Set eligibility criteria.
+
+5. Select a candidate.
+
+6. Press Confirm Vote.
+
+7. Use View Results to display counts.
+
+8. Reset All Votes if required.
 ---
 
 ## Future Improvements
@@ -89,7 +89,6 @@ git clone https://github.com/DishanPanchigar/Projects_0701/tree/main
 -Include EEPROM-style memory
 -Implement password or ID verification
 -Extend to N candidates
-
 ---
 
 ## Learning Outcome
@@ -98,14 +97,13 @@ git clone https://github.com/DishanPanchigar/Projects_0701/tree/main
 -Digital system integration
 -Display interfacing
 -Logic-level security mechanisms
-
 ---
 
-👤 Author:
+##Author:
 Dishan Panchigar
 Electronics & Digital Systems Enthusiast
-
 ---
 
 ## License
 This project is licensed under the MIT License.
+---
