@@ -72,12 +72,16 @@ Actual counts appear only after pressing **View All Candidate Votes**.
 ```bash
 git clone https://github.com/DishanPanchigar/Projects_0701/tree/main 
 
+---
+
 3. Open Digital_Vote_Register/circuit/Digital_Vote_Regiser.circ
 4. Set eligibility criteria.
 5. Select a candidate.
 6. Press Confirm Vote.
 7. Use View Results to display counts.
 8. Reset All Votes if required.
+
+---
 
 ## Future Improvements
 -Replace asynchronous counters with synchronous counters
@@ -86,6 +90,8 @@ git clone https://github.com/DishanPanchigar/Projects_0701/tree/main
 -Implement password or ID verification
 -Extend to N candidates
 
+---
+
 ## Learning Outcome
 -Practical counter design
 -Clock control
@@ -93,9 +99,13 @@ git clone https://github.com/DishanPanchigar/Projects_0701/tree/main
 -Display interfacing
 -Logic-level security mechanisms
 
+---
+
 👤 Author:
 Dishan Panchigar
 Electronics & Digital Systems Enthusiast
+
+---
 
 ## License
 This project is licensed under the MIT License.
